@@ -38,13 +38,9 @@ Hi ✋ I'm Finiz! I'm 24 years old and from Belo Horizonte, Brazil. I'm currentl
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br>
 <br>
-
----
-### Contact me
-
+###  ✉ Contact me
 <div> 
     <a href = "mailto:bhz.italo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://discord.gg/FcfPRACQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
