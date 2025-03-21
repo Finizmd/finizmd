@@ -15,7 +15,7 @@ Hi ✋ I'm Finiz! I'm 24 years old and from Belo Horizonte, Brazil. I'm currentl
         <img 
             alt="Follow" 
             title="Followers in GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/BhzItalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Flollowers&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/BhzItalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
