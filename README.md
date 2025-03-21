@@ -8,14 +8,14 @@ Hi ✋ I'm Finiz! I'm 24 years old and from Belo Horizonte, Brazil. I'm currentl
         <img 
             alt="Stars" 
             title="Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/BhzItalo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/BhzItalo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/BhzItalo?tab=followers">
         <img 
             alt="Follow" 
             title="Followers in GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/BhzItalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/BhzItalo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Flollowers&logoColor=white"
         />
     </a>
 </p>
