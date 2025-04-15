@@ -4,7 +4,7 @@
 Hi ✋ I'm Finiz! I'm 24 years old and from Belo Horizonte, Brazil. I'm currently studying Systems Analysis and Development at Proz Educação through the 5th edition of Trilhas do Futuro, a program by the Government of Minas Gerais.
 
 <p align="left">
-    <a href="https://github.com/BhzItalo?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Finizmd?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
             title="Stars" 
